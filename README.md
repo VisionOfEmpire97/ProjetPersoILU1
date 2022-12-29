@@ -1,4 +1,4 @@
-### Projet Personnel fina ILU1
+### Projet Personnel final ILU1
 
 ## PROJET : Automatisation de la génération de flyer personnalisées
 1. Une organisation responsable de la gestion de plusieurs dizaines de logements
